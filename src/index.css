@@ -1,0 +1,13 @@
+/* Page backdrop behind the centered app card.
+   The app itself (.bk) supplies all of its own styling. */
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  background: #f3e9d2;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
