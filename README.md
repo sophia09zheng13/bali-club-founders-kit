@@ -96,3 +96,4 @@ bali-club-website/
 │  └─ FoundersKit.jsx    # the entire app (edit CONTENT here)
 └─ README.md
 ```
+# bali-club-founders-kit
